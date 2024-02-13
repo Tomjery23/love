@@ -3,8 +3,8 @@ var snowStorm = null;
 
 function SnowStorm() {
     var imagePath = 'https://timoday.edu.vn/wp-content/uploads/2020/06/';
-    var flakesMax = 400;
-    var flakesMaxActive = 400;
+    var flakesMax = 500;
+    var flakesMaxActive = 500;
     var vMaxX = 4;
     var vMaxY = 4;
     var usePNG = false;
